@@ -4,7 +4,7 @@
 // judul.innerHTML = 'Hidaa';
 
 // const p = document.getElementsByTagName('p');
-// // p[0].style.backgroundColor = 'lightblue';
+// p[0].style.backgroundColor = 'lightblue';
 // p[1].style.backgroundColor = 'grey';
 // p[2].style.backgroundColor = 'lightyellow';
 // p[3].style.backgroundColor = 'lightgreen';
@@ -30,7 +30,7 @@
 // li2.style.backgroundColor = 'lightcoral';
 
 // const p1 = document.querySelector('p');
-// p1.innerHTML = 'Ini dirubah melalui Javascript :)';
+// p1.innerHTML = 'Ini dirubah melalui Javascript dengan querySelector :)';
 
 // const p = document.querySelectorAll('p');
 
@@ -39,7 +39,7 @@
 // const p = document.querySelectorAll('p');
 // p[2].style.backgroundColor = 'lightblue';
 
-const p = document.querySelectorAll('p');
-    for(let i = 0; i < p.length; i++){
-        p[i].style.backgroundColor = 'lightgreen';
-    }
+// const p = document.querySelectorAll('p');
+//     for(let i = 0; i < p.length; i++){
+//         p[i].style.backgroundColor = 'lightgreen';
+//     }
